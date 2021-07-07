@@ -79,7 +79,7 @@ print("hello")
 
 #dico = {'computer': 'ordinateur', 'keyboard': 'clavier', 'mouse': 'souris'}
 
-s = [0]
+s = ["lol"]
 for i in range(5):
     s[i] = s.append("bonjour")
     print(s)
